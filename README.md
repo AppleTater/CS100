@@ -6,7 +6,7 @@ Group Members:
   - Roy Feng (rfeng016@ucr.edu)
   
 Title:
-  - Musical *F*orte
+  - Musical *f*orte
   
 App:
   - JetBrains: IntelliJ IDEA
