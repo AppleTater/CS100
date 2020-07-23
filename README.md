@@ -12,7 +12,7 @@
   
 ### Importance and Interest:
 
-  - ##### Thanks to streaming services such as Spotify, music has ingrained itself within the lives of many people. 
+  - ###### Thanks to streaming services such as Spotify, music has ingrained itself within the lives of many people. 
   We are the first generation to have an entire library and geography of music at our fingertips and Spotify's 
   surveys reveal that an overwhelming majority of users pride themselves on being open-minded and enjoying music 
   that spans across multiple genres. We like to think that our personal taste in music reflects this diversity in 
@@ -22,18 +22,18 @@
   and output links to new releases and undiscovered playlists.
 
 ### Design Patterns Used:
-  1. ##### Composite Pattern (Dylan Han): Making outputs for new and featured songs
-  2. ##### Visitor Pattern (Roy Feng): Counting the total number of songs
-  3. ##### Decorator Pattern (Jasmine Lau): Adding messages and a title to the outputted file
+  1. ###### Composite Pattern (Dylan Han): Making outputs for new and featured songs
+  2. ###### Visitor Pattern (Roy Feng): Counting the total number of songs
+  3. ###### Decorator Pattern (Jasmine Lau): Adding messages and a title to the outputted file
   
 ###  Language and Tools:
-  - ##### Java (IntelliJ IDEA)
-  - ##### Spotify API
+  - ###### Java (IntelliJ IDEA)
+  - ###### Spotify API
   
 ### App:
-  - ##### JetBrains: IntelliJ IDEA
+  - ###### JetBrains: IntelliJ IDEA
 
 ### Input and Output
-  - ##### In: Categories (i.e. new, featured, etc.)
-  - ##### Out: Recommendations based on input
+  - ###### In: Categories (i.e. new, featured, etc.)
+  - ###### Out: Recommendations based on input
   
