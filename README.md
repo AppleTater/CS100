@@ -2,10 +2,10 @@
 
 ## CS 100 Programming Project
 
-### Group Members:
-  - #### Dylan Han (dhan060@ucr.edu)
-  - #### Roy Feng (rfeng016@ucr.edu)
-  - #### Jasmine Lau (jlau053@ucr.edu)
+## Authors
+  > #### Dylan Han (dhan060@ucr.edu)
+  > #### Roy Feng (rfeng016@ucr.edu)
+  > #### Jasmine Lau (jlau053@ucr.edu)
 
 ### Goal:
   - ##### Utilize Spotify's public API to recommend songs based on user input and put the recommended songs onto files.
