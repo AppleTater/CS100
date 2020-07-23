@@ -47,9 +47,9 @@
   ![image](https://user-images.githubusercontent.com/55225223/88281107-f293ef80-cc9b-11ea-91cd-4473052776be.png)
 
 ## Related Screen Shots
-  - Words in green are the inputs
-  - Words in white are the outputs
-  - Links are provided which lead to the recommendations on Spotify
+  - Words in green are inputs
+  - Words in white are outputs
+  - Links are provided lead to the recommendations on Spotify
   
 ![image](https://user-images.githubusercontent.com/55225223/88275266-f02c9800-cc91-11ea-88a4-333923f0df77.png)
 ![image](https://user-images.githubusercontent.com/55225223/88275361-21a56380-cc92-11ea-992e-4454d21beb07.png)
