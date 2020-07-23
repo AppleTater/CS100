@@ -16,11 +16,14 @@
 
 ### Design Patterns Used:
   1. Composite Pattern (Dylan Han): Making outputs for new and featured songs
+  ![image](https://user-images.githubusercontent.com/55225223/88281230-266f1500-cc9c-11ea-832c-6caa344624fd.png)
+
   2. Visitor Pattern (Roy Feng): Counting the total number of songs
   ![image](https://user-images.githubusercontent.com/55225223/88276871-a09b9b80-cc94-11ea-9328-11f553946dc5.png)
 
   3. Decorator Pattern (Jasmine Lau): Adding messages and a title to the outputted file
-  
+  ![image](https://user-images.githubusercontent.com/55225223/88281107-f293ef80-cc9b-11ea-91cd-4473052776be.png)
+
  ### Language and Tools:
   - Java (IntelliJ IDEA)
   - Spotify API
