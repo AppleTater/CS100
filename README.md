@@ -17,6 +17,7 @@
 ### Design Patterns Used:
   1. Composite Pattern (Dylan Han): Making outputs for new and featured songs
   2. Visitor Pattern (Roy Feng): Counting the total number of songs
+  ![image](https://user-images.githubusercontent.com/55225223/88276636-3d116e00-cc94-11ea-9fcf-ccbb2135462f.png)
   3. Decorator Pattern (Jasmine Lau): Adding messages and a title to the outputted file
   
  ### Language and Tools:
