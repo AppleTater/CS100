@@ -40,5 +40,12 @@
 
 ### Input and Output
   - In: Categories (i.e. new, featured, etc.)
+    ![image](https://user-images.githubusercontent.com/55225223/88275266-f02c9800-cc91-11ea-88a4-333923f0df77.png)
+
   - Out: Recommendations based on input
+  ![image](https://user-images.githubusercontent.com/55225223/88275361-21a56380-cc92-11ea-992e-4454d21beb07.png)
+  ![image](https://user-images.githubusercontent.com/55225223/88275480-4ef21180-cc92-11ea-9523-ed7fb11ed030.png)
+  ![image](https://user-images.githubusercontent.com/55225223/88275581-747f1b00-cc92-11ea-94e6-515b76899a80.png)
+
   
+
