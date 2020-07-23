@@ -23,9 +23,9 @@ Input and Output
   - Out: similar genre of music / similar artists as 'advice'
 
 Design Patterns:
-  - Visitor Pattern: Counting the total number of songs
-  - Decorator Pattern: Adding messages and a title to the outputted file
-  - Composite Pattern: Making outputs for new and featured songs
+  - Visitor Pattern (Roy Feng): Counting the total number of songs
+  - Decorator Pattern (Jasmine Lau): Adding messages and a title to the outputted file
+  - Composite Pattern (Dylan Han): Making outputs for new and featured songs
   
  Goal:
   - Utilize Spotify's public API to recommend songs based on user input and put the recommended songs onto files.
