@@ -1,12 +1,9 @@
-# CS 100 Programming Project
+# CS 100 Programming Project: MUSICAL *F*ORTE
 
 Group Members:
   - Jasmine Lau (jlau053@ucr.edu)
   - Dylan Han (dhan060@ucr.edu)
   - Roy Feng (rfeng016@ucr.edu)
-  
-Title:
-  - Musical *f*orte
   
 Goal:
   - Utilize Spotify's public API to recommend songs based on user input and put the recommended songs onto files.
