@@ -31,8 +31,12 @@
   
 ### App:
   - JetBrains: IntelliJ IDEA
+ 
+### Input and Output
+  - In: Categories (i.e. new, featured, etc.)
+  - Out: Recommendations based on input
   
-### Design Patterns Used:
+## Design Patterns Used:
 1. Composite Pattern (Dylan Han): Making outputs for new and featured songs
   ![image](https://user-images.githubusercontent.com/55225223/88281230-266f1500-cc9c-11ea-832c-6caa344624fd.png)
 
@@ -42,12 +46,7 @@
 3. Decorator Pattern (Jasmine Lau): Adding messages and a title to the outputted file
   ![image](https://user-images.githubusercontent.com/55225223/88281107-f293ef80-cc9b-11ea-91cd-4473052776be.png)
 
-### Input and Output
-  - In: Categories (i.e. new, featured, etc.)
-  - Out: Recommendations based on input
-  
-  
-### Related Screen Shots
+## Related Screen Shots
   - Words in green are the inputs
   - Words in white are the outputs
   - Links are provided which lead to the recommendations on Spotify
